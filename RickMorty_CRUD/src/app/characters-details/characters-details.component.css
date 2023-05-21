@@ -1,0 +1,8 @@
+.contenedor{
+  background: url("../img/rick_and_morty.jpeg") no-repeat fixed center;
+  background-size: cover;
+}
+.carta{
+display: flex;
+justify-content: center;
+}

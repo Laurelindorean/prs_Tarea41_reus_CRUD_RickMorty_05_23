@@ -1,0 +1,5 @@
+.contenedor{
+  background-image: url("../img/rick_and_morty.jpeg");
+  height: 100vh;
+  background-size: cover;
+}

@@ -1,0 +1,50 @@
+<div class="container-fluid">
+  <div class="bg-image shadow-2-strong contenedor">
+    <br><br><br>
+    <h1 style="text-align: center; color: white; font-weight: bold;">{{title}}</h1>
+    <div style="width: 500px; margin: auto;">
+      <div class="submit-form">
+          <div *ngIf="!isCharacterAdded">
+              <div class="form-group">
+                  <label for="title">Name</label>
+                  <input type="text" class="form-control" id="title" required [(ngModel)]="character.name" name="name" />
+              </div>
+
+              <div class="form-group">
+                  <label for="description">Status</label>
+                  <input class="form-control" id="status" required [(ngModel)]="character.status" name="status" />
+              </div>
+              <div class="form-group">
+                <label for="description">Species</label>
+                <input class="form-control" id="species" required [(ngModel)]="character.species" name="species" />
+            </div>
+            <div class="form-group">
+              <label for="description">Gender</label>
+              <input class="form-control" id="gender" required [(ngModel)]="character.gender" name="gender" />
+          </div>
+          <div class="form-group">
+            <label for="description">Origin</label>
+            <input class="form-control" id="origin" required [(ngModel)]="character.origin" name="origin" />
+        </div>
+        <div class="form-group">
+          <label for="description">Id image from 1 - 826</label>
+          <input class="form-control" id="image" required [(ngModel)]="character.image" name="image" />
+      </div>
+
+              <button (click)="addCharacter()" class="btn btn-success">Create</button>
+              <button class="btn btn-warning" (click)="return()">Return</button>
+          </div>
+
+          <div *ngIf="isCharacterAdded">
+              <h3>New Character Added!</h3>
+              <button class="btn btn-success" (click)="newCharacter()"> + Add More</button>
+              <button class="btn btn-warning" (click)="return()">Return</button>
+          </div>
+      </div>
+  </div>
+
+  </div>
+
+
+
+</div>

@@ -1,0 +1,43 @@
+<div class="container-fluid">
+  <div class="bg-image shadow-2-strong contenedor">
+    <br><br><br>
+    <h1 style="text-align: center; color: white; font-weight: bold;">{{title}}</h1>
+    <br><br>
+    <div class="container-sm">
+      <div class="row">
+        <div class="col-12 text-center carta" *ngIf="character != null">
+          <div class="card " style="width: 18rem; justify-items: center;">
+            <h4>{{character.name}}</h4>
+            <img src={{character.image}} alt="" class="card-img-top">
+            <div class="card-body">
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">Name:</li>
+                <input type="text" class="form-control" style="text-align: center;" id="name" [(ngModel)]="character.name" name="name">
+                <li class="list-group-item">Status:</li>
+                <input type="text" class="form-control" style="text-align: center;" id="status" [(ngModel)]="character.status" name="status">
+                <li class="list-group-item">Species:</li>
+                <input type="text" class="form-control" style="text-align: center;" id="species" [(ngModel)]="character.species" name="species">
+                <li class="list-group-item">Gender:</li>
+                <input type="text" class="form-control" style="text-align: center;" id="gender" [(ngModel)]="character.gender" name="gender">
+                <li class="list-group-item">Origin:</li>
+                <input type="text" class="form-control" style="text-align: center;" id="origin" [(ngModel)]="character.origin" name="origin">
+              </ul>
+              <button class="btn btn-warning mt-1" (click)="return()">Return</button>
+              <button type="button" class="btn btn-warning" (click)="updateCharacter()">Update</button>
+              <button type="button" class="btn btn-danger" (click)="deleteCharacter()">Delete</button>
+            </div>
+          </div>
+
+
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+
+</div>

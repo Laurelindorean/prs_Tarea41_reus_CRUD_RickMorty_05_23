@@ -1,0 +1,43 @@
+<div class="container-fluid bg-image shadow-2-strong contenedor">
+  <div>
+    <br /><br /><br />
+    <h1 style="text-align: center; color: white; font-weight: bold">
+      {{ title }}
+    </h1>
+    <br /><br />
+    <div class="container">
+      <div class="row">
+        <div class="col-3 my-4" *ngFor="let character of characters">
+          <div class="container text-center border py-2 text-break">
+            <img
+              class="img-fluid"
+              src="{{ character.image }}"
+              alt="Image of character.name"
+            />
+            <h5 class="py-2">{{ character.name }}</h5>
+            <div class="d-grid gap-2">
+              <button
+                class="btn btn-warning my-2"
+                (click)="seeMore(character.id)"
+              >
+                See more...
+              </button>
+              <button
+                class="btn btn-primary my-2"
+                routerLink="/characters/{{ character.id }}"
+              >
+                Edit
+              </button>
+              <button
+                class="btn btn-danger my-2"
+                (click)="delete(character.id)"
+              >
+                Delete
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

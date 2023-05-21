@@ -1,0 +1,436 @@
+{
+  "characters": [
+    {
+      "id": 2,
+      "name": "Kate Hahn",
+      "status": "dead",
+      "species": "fish",
+      "gender": "Other",
+      "origin": "Nigeria",
+      "image": "https://rickandmortyapi.com/api/character/avatar/274.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Joann Bayer",
+      "status": "dead",
+      "species": "human",
+      "gender": "Trigender",
+      "origin": "Portugal",
+      "image": "https://rickandmortyapi.com/api/character/avatar/167.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Harriet Kautzerito",
+      "status": "dead",
+      "species": "human",
+      "gender": "F2M",
+      "origin": "Portugal",
+      "image": "https://rickandmortyapi.com/api/character/avatar/375.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Julia Herzog",
+      "status": "dead",
+      "species": "human",
+      "gender": "Neither",
+      "origin": "Sweden",
+      "image": "https://rickandmortyapi.com/api/character/avatar/613.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Marcus Hettinger",
+      "status": "dead",
+      "species": "human",
+      "gender": "Cis man",
+      "origin": "Isle of Man",
+      "image": "https://rickandmortyapi.com/api/character/avatar/745.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Shari Goodwin",
+      "status": "dead",
+      "species": "human",
+      "gender": "Male to female transsexual woman",
+      "origin": "Norway",
+      "image": "https://rickandmortyapi.com/api/character/avatar/157.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Sonja Marks",
+      "status": "dead",
+      "species": "bear",
+      "gender": "Cisgender",
+      "origin": "Liechtenstein",
+      "image": "https://rickandmortyapi.com/api/character/avatar/402.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Dr. Gabriel McGlynn",
+      "status": "alive",
+      "species": "bear",
+      "gender": "Transexual woman",
+      "origin": "Germany",
+      "image": "https://rickandmortyapi.com/api/character/avatar/501.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Ethel Stroman",
+      "status": "dead",
+      "species": "human",
+      "gender": "T* woman",
+      "origin": "Georgia",
+      "image": "https://rickandmortyapi.com/api/character/avatar/288.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Mandy Lockman",
+      "status": "dead",
+      "species": "human",
+      "gender": "Male to female transsexual woman",
+      "origin": "Estonia",
+      "image": "https://rickandmortyapi.com/api/character/avatar/499.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Angela Larson",
+      "status": "alive",
+      "species": "bear",
+      "gender": "Demiflux",
+      "origin": "Solomon Islands",
+      "image": "https://rickandmortyapi.com/api/character/avatar/589.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Ms. Estelle Considine",
+      "status": "alive",
+      "species": "cat",
+      "gender": "Gender fluid",
+      "origin": "Canada",
+      "image": "https://rickandmortyapi.com/api/character/avatar/209.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Clara Boyle",
+      "status": "alive",
+      "species": "human",
+      "gender": "Transexual male",
+      "origin": "Palau",
+      "image": "https://rickandmortyapi.com/api/character/avatar/616.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Sharon Lang",
+      "status": "dead",
+      "species": "lion",
+      "gender": "Gender fluid",
+      "origin": "San Marino",
+      "image": "https://rickandmortyapi.com/api/character/avatar/195.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Bernadette Waters II",
+      "status": "alive",
+      "species": "fish",
+      "gender": "M2F",
+      "origin": "French Polynesia",
+      "image": "https://rickandmortyapi.com/api/character/avatar/717.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "Wilbert Schuppe",
+      "status": "alive",
+      "species": "human",
+      "gender": "Demi-boy",
+      "origin": "British Indian Ocean Territory (Chagos Archipelago)",
+      "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Latoya O'Hara II",
+      "status": "alive",
+      "species": "human",
+      "gender": "Cisgender",
+      "origin": "Aland Islands",
+      "image": "https://rickandmortyapi.com/api/character/avatar/318.jpeg"
+    },
+    {
+      "id": 22,
+      "name": "Javier Thiel",
+      "status": "alive",
+      "species": "dog",
+      "gender": "Intersex",
+      "origin": "Marshall Islands",
+      "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "Brooke Collins",
+      "status": "alive",
+      "species": "human",
+      "gender": "Transgender female",
+      "origin": "Saint Pierre and Miquelon",
+      "image": "https://rickandmortyapi.com/api/character/avatar/576.jpeg"
+    },
+    {
+      "id": 24,
+      "name": "Lori Fisher",
+      "status": "alive",
+      "species": "human",
+      "gender": "Trans female",
+      "origin": "Mozambique",
+      "image": "https://rickandmortyapi.com/api/character/avatar/681.jpeg"
+    },
+    {
+      "id": 25,
+      "name": "Ms. Traci Wolff",
+      "status": "dead",
+      "species": "human",
+      "gender": "Transexual male",
+      "origin": "Montenegro",
+      "image": "https://rickandmortyapi.com/api/character/avatar/249.jpeg"
+    },
+    {
+      "id": 26,
+      "name": "Marsha Stiedemann",
+      "status": "dead",
+      "species": "human",
+      "gender": "Transexual male",
+      "origin": "Guyana",
+      "image": "https://rickandmortyapi.com/api/character/avatar/149.jpeg"
+    },
+    {
+      "id": 27,
+      "name": "Ellen Nolan",
+      "status": "alive",
+      "species": "fish",
+      "gender": "Male to female transgender woman",
+      "origin": "Monaco",
+      "image": "https://rickandmortyapi.com/api/character/avatar/774.jpeg"
+    },
+    {
+      "id": 28,
+      "name": "Woodrow Pfannerstill",
+      "status": "dead",
+      "species": "bear",
+      "gender": "Cisgender female",
+      "origin": "Vietnam",
+      "image": "https://rickandmortyapi.com/api/character/avatar/229.jpeg"
+    },
+    {
+      "id": 29,
+      "name": "Guadalupe Bayer",
+      "status": "alive",
+      "species": "human",
+      "gender": "Gender variant",
+      "origin": "Bermuda",
+      "image": "https://rickandmortyapi.com/api/character/avatar/473.jpeg"
+    },
+    {
+      "id": 30,
+      "name": "Ollie Mante",
+      "status": "alive",
+      "species": "dog",
+      "gender": "Demi-girl",
+      "origin": "Slovakia",
+      "image": "https://rickandmortyapi.com/api/character/avatar/132.jpeg"
+    },
+    {
+      "id": 31,
+      "name": "Verna Abshire",
+      "status": "dead",
+      "species": "human",
+      "gender": "Cis",
+      "origin": "Nicaragua",
+      "image": "https://rickandmortyapi.com/api/character/avatar/387.jpeg"
+    },
+    {
+      "id": 32,
+      "name": "Lee Crist",
+      "status": "alive",
+      "species": "human",
+      "gender": "Demi-boy",
+      "origin": "Burkina Faso",
+      "image": "https://rickandmortyapi.com/api/character/avatar/429.jpeg"
+    },
+    {
+      "id": 33,
+      "name": "Elisa Lueilwitz",
+      "status": "dead",
+      "species": "horse",
+      "gender": "Demi-girl",
+      "origin": "Iceland",
+      "image": "https://rickandmortyapi.com/api/character/avatar/477.jpeg"
+    },
+    {
+      "id": 34,
+      "name": "Mr. Robert Bradtke",
+      "status": "alive",
+      "species": "human",
+      "gender": "MTF",
+      "origin": "Burundi",
+      "image": "https://rickandmortyapi.com/api/character/avatar/686.jpeg"
+    },
+    {
+      "id": 35,
+      "name": "Mr. Jordan Moen",
+      "status": "dead",
+      "species": "human",
+      "gender": "Female to male",
+      "origin": "Ethiopia",
+      "image": "https://rickandmortyapi.com/api/character/avatar/435.jpeg"
+    },
+    {
+      "id": 36,
+      "name": "Olivia Rodriguez",
+      "status": "dead",
+      "species": "human",
+      "gender": "Cis man",
+      "origin": "Thailand",
+      "image": "https://rickandmortyapi.com/api/character/avatar/77.jpeg"
+    },
+    {
+      "id": 37,
+      "name": "Tami Renner",
+      "status": "alive",
+      "species": "human",
+      "gender": "Demi-boy",
+      "origin": "Zimbabwe",
+      "image": "https://rickandmortyapi.com/api/character/avatar/349.jpeg"
+    },
+    {
+      "id": 38,
+      "name": "Louise Nitzsche",
+      "status": "dead",
+      "species": "dog",
+      "gender": "Transexual male",
+      "origin": "Western Sahara",
+      "image": "https://rickandmortyapi.com/api/character/avatar/445.jpeg"
+    },
+    {
+      "id": 39,
+      "name": "Lana Leffler",
+      "status": "alive",
+      "species": "cow",
+      "gender": "Cis male",
+      "origin": "Antarctica",
+      "image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+    },
+    {
+      "id": 40,
+      "name": "Victoria Schmidt",
+      "status": "dead",
+      "species": "human",
+      "gender": "Polygender",
+      "origin": "Congo",
+      "image": "https://rickandmortyapi.com/api/character/avatar/70.jpeg"
+    },
+    {
+      "id": 41,
+      "name": "Marilyn Ebert",
+      "status": "alive",
+      "species": "human",
+      "gender": "Cis female",
+      "origin": "Palestine",
+      "image": "https://rickandmortyapi.com/api/character/avatar/413.jpeg"
+    },
+    {
+      "id": 42,
+      "name": "Herbert Rowe",
+      "status": "alive",
+      "species": "insect",
+      "gender": "Cis man",
+      "origin": "Bahrain",
+      "image": "https://rickandmortyapi.com/api/character/avatar/735.jpeg"
+    },
+    {
+      "id": 43,
+      "name": "Mr. Brian Mante",
+      "status": "dead",
+      "species": "human",
+      "gender": "Male to female",
+      "origin": "Belgium",
+      "image": "https://rickandmortyapi.com/api/character/avatar/631.jpeg"
+    },
+    {
+      "id": 44,
+      "name": "Larry Morissette",
+      "status": "dead",
+      "species": "lion",
+      "gender": "Intersex",
+      "origin": "United Kingdom",
+      "image": "https://rickandmortyapi.com/api/character/avatar/755.jpeg"
+    },
+    {
+      "id": 45,
+      "name": "Marc Schowalter",
+      "status": "dead",
+      "species": "human",
+      "gender": "Androgyne",
+      "origin": "Georgia",
+      "image": "https://rickandmortyapi.com/api/character/avatar/264.jpeg"
+    },
+    {
+      "id": 46,
+      "name": "Bernadette Conroy",
+      "status": "alive",
+      "species": "human",
+      "gender": "Intersex man",
+      "origin": "Mauritius",
+      "image": "https://rickandmortyapi.com/api/character/avatar/669.jpeg"
+    },
+    {
+      "id": 47,
+      "name": "Ms. Bernadette Osinski V",
+      "status": "dead",
+      "species": "human",
+      "gender": "Demi-man",
+      "origin": "Isle of Man",
+      "image": "https://rickandmortyapi.com/api/character/avatar/637.jpeg"
+    },
+    {
+      "id": 48,
+      "name": "Pat Carter-Sanford",
+      "status": "alive",
+      "species": "human",
+      "gender": "Transexual",
+      "origin": "Timor-Leste",
+      "image": "https://rickandmortyapi.com/api/character/avatar/52.jpeg"
+    },
+    {
+      "id": 49,
+      "name": "Miss Mae Hand",
+      "status": "dead",
+      "species": "human",
+      "gender": "MTF",
+      "origin": "Maldives",
+      "image": "https://rickandmortyapi.com/api/character/avatar/453.jpeg"
+    },
+    {
+      "id": 50,
+      "name": "Clifford Quitzon",
+      "status": "alive",
+      "species": "cow",
+      "gender": "Two-spirit person",
+      "origin": "Heard Island and McDonald Islands",
+      "image": "https://rickandmortyapi.com/api/character/avatar/308.jpeg"
+    },
+    {
+      "name": "Palmira",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Woman",
+      "origin": "Earth",
+      "image": "https://rickandmortyapi.com/api/character/avatar/10.jpeg",
+      "id": 51
+    },
+    {
+      "name": "Test",
+      "status": "estatus",
+      "species": "specis",
+      "gender": "gender",
+      "origin": "origin",
+      "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+      "id": 52
+    }
+  ]
+}

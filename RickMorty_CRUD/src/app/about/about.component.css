@@ -1,0 +1,27 @@
+.contenedor {
+  background-image: url("../img/rick_and_morty.jpeg");
+  height: 100vh;
+  background-size: cover;
+}
+
+img {
+  margin-left: 100px;
+  max-width: 20%;
+}
+
+p {
+  font-weight: bold;
+  margin-left: 50px;
+  font-size: large;
+  font-family: sans-serif;
+}
+
+.flex-item {
+  display: flex;
+  align-items: center;
+}
+
+.enlace {
+  margin-left: 50px;
+  margin-top: 50px;
+}
